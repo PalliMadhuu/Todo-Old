@@ -1,0 +1,12 @@
+{
+  "Users": [
+    {
+      "emailId": "madhu.palli@cognine.com",
+      "userName": "Madhu",
+      "password": "Madhu12m",
+      "confirmPassword": "Madhu12k",
+      "gender": "female",
+      "id": 1
+    }
+  ]
+}

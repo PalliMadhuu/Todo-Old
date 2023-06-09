@@ -1,0 +1,32 @@
+{
+  "Todos": [
+    {
+      "toDoName": "React Poc",
+      "note": "Complete It By Tomorow",
+      "date": "2023-04-14",
+      "toDoStatus": "ongoing",
+      "id": 1
+    },
+    {
+      "toDoName": "Mvc Poc",
+      "note": "Complete today",
+      "date": "2023-04-12",
+      "toDoStatus": "completed",
+      "id": 2
+    },
+    {
+      "toDoName": "Mvc Poc",
+      "note": "Complete today",
+      "date": "2023-04-12",
+      "toDoStatus": "completed",
+      "id": 3
+    },
+    {
+      "toDoName": "React Proj",
+      "note": "Hello",
+      "date": "2023-04-08",
+      "toDoStatus": "completed",
+      "id": 4
+    }
+  ]
+}
